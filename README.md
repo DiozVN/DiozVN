@@ -1,4 +1,4 @@
-<h1> Hi! I'm Crystal. ! <img src="https://i.gifer.com/5Eh5.gif"/>
+<h1> Hi! I'm Crystal. ! 
 
 
 <br>
