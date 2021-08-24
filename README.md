@@ -4,15 +4,19 @@
 
 ❎ Giới Thiệu bản thân
 
-- ✔️ &nbsp; My name is Khải.❤️️
-- ✔️ &nbsp; My hobby are watching anime, play soccer and game :3.
-- ✔️ &nbsp; I believe that listening to music helps me relax and relieve stress.
+- ✔️ &nbsp; Tên mình là: Nguyễn Đức Khải.❤️️
+- ✔️ &nbsp; Mình vừa thi xong THPT.
+- ✔️ &nbsp; Sinh vào: 20/11/2003
+- ✔️ &nbsp; Có chiều cao: 1 mét 75
+- ✔️ &nbsp; Tính cách có hơi nhây và thích giao lưu nhưng lại hơi khó mở lời với mọi người
+- ✔️ &nbsp; Mình là một người muốn học hỏi và cống hiến cho project Mirai
 
 ❎ Các sở thích của mình
 
 - ✔️ &nbsp; Học hỏi TypeScript | JavaScript | HTML | CSS | Adobe Photoshop
 - ✔️ &nbsp; Chơi game CSGO, Liên Quân, Fifa Online 4
 - ✔️ &nbsp; Thích đá banh và yêu thích IT
+- ✔️ &nbsp; Hay nghe nhạc từ ngày lẫn đêm kkk
 
 
 ℹ️ Github Stats
