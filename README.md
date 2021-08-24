@@ -1,4 +1,4 @@
-<h1> Hi! I'm Crystal. ! 
+<h1> Hi! I'm Crystal. ! <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="30"></h1> 
 
 
 <br>
