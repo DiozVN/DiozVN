@@ -6,7 +6,7 @@
 
 - ✔️ &nbsp; Tên mình là: Nguyễn Đức Khải.❤️️
 - ✔️ &nbsp; Mình vừa thi xong THPT.
-- ✔️ &nbsp; Sinh vào: 20/11/2003
+- ✔️ &nbsp; Sinh vào: 12/09/2003
 - ✔️ &nbsp; Có chiều cao: 1 mét 75
 - ✔️ &nbsp; Tính cách có hơi nhây và thích giao lưu nhưng lại hơi khó mở lời với mọi người
 - ✔️ &nbsp; Mình là một người muốn học hỏi và cống hiến cho project Mirai
