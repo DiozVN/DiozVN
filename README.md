@@ -17,7 +17,7 @@
 
 # ℹ️ Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Crystal7826&include_all_commits=true&count_private=true&show_icons=true&custom_title=Pro%20Coder%20Mew%27s%20GitHub%20Stats&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" width="68%" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=Crystal7826&include_all_commits=true&count_private=true&show_icons=true&custom_title=Pro%20Coder%20Mew%27s%20GitHub%20Stats&line_height=40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" width="58%" align="right">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Crystal7826&theme=neon-palenight" alt = "Github Streak" width="61%" >
 
 # 📖 Top Langs
