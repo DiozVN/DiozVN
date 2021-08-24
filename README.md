@@ -1,4 +1,5 @@
-<h1> Hi! I'm Crystal. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
+<h1> Hi! I'm Crystal. ![qoobee_agapi_18](https://user-images.githubusercontent.com/33801881/130618383-a16a046d-7b74-4f09-948e-2bba57595125.png)
+
 
 <br>
 
