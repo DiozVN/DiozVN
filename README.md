@@ -6,13 +6,13 @@
 
 - ✔️ &nbsp; My name is Khải.❤️️
 - ✔️ &nbsp; My hobby are watching anime, play soccer and game :3.
-- ✔️ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- ✔️ &nbsp; I believe that listening to music helps me relax and relieve stress.
 
-❎ Tech Stack
+❎ Các sở thích của mình
 
-- 💻 &nbsp; TypeScript | JavaScript | HTML | CSS
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Adobe Photoshop | After Effect
+- ✔️ &nbsp; Học hỏi TypeScript | JavaScript | HTML | CSS | Adobe Photoshop
+- ✔️ &nbsp; Chơi game CSGO, Liên Quân, Fifa Online 4
+- ✔️ &nbsp; Thích đá banh và yêu thích IT
 
 
 ℹ️ Github Stats
