@@ -26,8 +26,8 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Crystal7826&theme=neon-palenight" alt = "Github Streak" width="41%" >
 
 📖 Top Langs
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crystal7826&text_color=daf7dc&bg_color=151515)
+<p align="center">
+&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crystal7826&text_color=daf7dc&bg_color=151515)
 
 🤝🏻 Connect with Me
 
