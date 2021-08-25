@@ -22,7 +22,7 @@
 
 ℹ️ Github Stats
 
-![](http://github-readme-streak-stats.herokuapp.com?user=crystal7826&theme=neon-palenight) ![](https://github-readme-stats.vercel.app/api?username=crystal7826&include_all_commits=true&count_private=true&show_icons=true&line_height=28&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+![](http://github-readme-streak-stats.herokuapp.com?user=crystal7826&theme=neon-palenight) ![](https://github-readme-stats.vercel.app/api?username=crystal7826&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 📖 Top Langs
 
