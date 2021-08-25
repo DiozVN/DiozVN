@@ -27,10 +27,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=crystal7826&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 📖 Top Langs
-
 <p align="center">
-&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crystal7826&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crystal7826&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" 
+</p>
 🤝🏻 Connect with Me
 
 <p align="center">
