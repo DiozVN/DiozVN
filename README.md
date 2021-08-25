@@ -27,7 +27,7 @@
 
 📖 Top Langs
 <p align="center">
-&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crystal7826&text_color=daf7dc&bg_color=151515)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crystal7826&text_color=daf7dc&bg_color=151515)
 
 🤝🏻 Connect with Me
 
