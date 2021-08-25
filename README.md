@@ -31,5 +31,6 @@
 </p> <br><br>
   
 🤝🏻 Connect with Me
-<a href="https://github.com/Crystal7826" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-<a href="https://steamcommunity.com/id/...." target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/steam.png"  width="97" /></a>
+<p align="center">
+&nbsp; <a href="https://github.com/Crystal7826" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://steamcommunity.com/id/...." target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/steam.png"  width="97" /></a>
