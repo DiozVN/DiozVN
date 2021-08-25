@@ -28,8 +28,11 @@
 📖 Top Langs
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crystal7826&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" 
-</p> <br><br>
-  
+</p> <br><br><br><br><br>
+
+<hr>
+
+ 
 🤝🏻 Connect with Me
 <p align="center">
 &nbsp; <a href="https://github.com/Crystal7826" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
