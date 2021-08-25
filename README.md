@@ -15,7 +15,7 @@
 ❎ Các sở thích của mình
 
 - ✔️ &nbsp; Học hỏi TypeScript | JavaScript | HTML | CSS | Adobe Photoshop
-- ✔️ &nbsp; Chơi game CSGO, Liên Quân, Fifa Online 4
+- ✔️ &nbsp; Chơi game CSGO | Liên Quân | Fifa Online 4 | Minecraft
 - ✔️ &nbsp; Thích đá banh và yêu thích IT
 - ✔️ &nbsp; Hay nghe nhạc từ ngày lẫn đêm kkk
 
