@@ -1,6 +1,6 @@
- Hi! I'm Crystal. ! <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="50">
+<h1>Hi! I'm Crystal. ! <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="50"></h1>
 
-<hr>
+<br>
 
 ❎ Giới Thiệu bản thân
 
