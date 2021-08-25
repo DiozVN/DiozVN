@@ -29,7 +29,7 @@
 📖 Top Langs
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crystal7826&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" 
-</p><br>
+</p><br><br>
 🤝🏻 Connect with Me
 
 <p align="center">
