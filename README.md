@@ -1,4 +1,4 @@
-<hr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1>Hi! I'm Crystal. ! <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="50"></h1>
 
 <br>
@@ -19,7 +19,7 @@
 - ✔️ &nbsp; Thích đá banh và yêu thích IT
 - ✔️ &nbsp; Hay nghe nhạc từ ngày lẫn đêm kkk
 
-<hr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ℹ️ Github Stats
 
@@ -27,14 +27,14 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=crystal7826&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
-<hr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 📖 Top Langs
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crystal7826&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" 
 </p> <br><br><br><br><br>
 
-<hr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  
 🤝🏻 Connect with Me
