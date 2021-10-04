@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h1>Hi! I'm Crystal. ! <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="50"></h1>
+<h1>Hi! I'm DiozVN. ! <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="50"></h1>
 
 <br>
 
@@ -23,15 +23,15 @@
 
 ℹ️ Github Stats
 
-![](http://github-readme-streak-stats.herokuapp.com?user=crystal7826&theme=neon-palenight)
+![](http://github-readme-streak-stats.herokuapp.com?user=DiozVN&theme=neon-palenight)
 
-![](https://github-readme-stats.vercel.app/api?username=crystal7826&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+![](https://github-readme-stats.vercel.app/api?username=DiozVN&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 📖 Top Langs
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crystal7826&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiozVN&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" 
 </p> <br><br><br><br><br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -39,5 +39,5 @@
  
 🤝🏻 Connect with Me
 <p align="center">
-&nbsp; <a href="https://github.com/Crystal7826" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://github.com/DiozVN" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
 &nbsp; <a href="https://steamcommunity.com/id/...." target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/steam.png"  width="97" /></a>
