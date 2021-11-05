@@ -45,4 +45,4 @@
 🤝🏻 Connect with Me
 <p align="center">
 &nbsp; <a href="https://github.com/DiozVN" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.youtube.com/channel/UCYwiSvAyyEDwlWUp_LElydA?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/youtube-play--v1.png" width="96" /></a>
+&nbsp; <a href="https://www.youtube.com/channel/UCYwiSvAyyEDwlWUp_LElydA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png" width="96" /></a>
