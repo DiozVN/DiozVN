@@ -22,7 +22,7 @@
 ❎ Discord
 
 <a href="https://discord.com/users/882173065163849739" target="_blank" >
-    <img align ="left" alt="FiredragonPlayz's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align ="left" alt="DiozVN's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
