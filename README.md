@@ -10,11 +10,7 @@
 ℹ️ Github Stats
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=firedragonplayz&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiredragonPlayz&theme=tokyonight&hide=batchfile">
-
-![](http://github-readme-streak-stats.herokuapp.com?user=DiozVN&theme=neon-palenight)
-
-![](https://github-readme-stats.vercel.app/api?username=DiozVN&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DiozVN&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiozVN&theme=tokyonight&hide=batchfile">
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
