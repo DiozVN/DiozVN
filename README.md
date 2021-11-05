@@ -1,23 +1,4 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h1>Hi! I'm DiozVN. ! <img src="https://github.com/YadneshKhode/Hi.gif/blob/main/Hi.gif" width="50"></h1>
-
-<br>
-
-❎ Giới Thiệu bản thân
-
-- ✔️ &nbsp; Tên mình là: Nguyễn Đức Khải.❤️️
-- ✔️ &nbsp; Mình vừa thi xong THPT.
-- ✔️ &nbsp; Sinh vào: 12/09/2003
-- ✔️ &nbsp; Có chiều cao: 1 mét 75
-- ✔️ &nbsp; Tính cách có hơi nhây và thích giao lưu nhưng lại hơi khó mở lời với mọi người
-- ✔️ &nbsp; Mình là một người muốn học hỏi và cống hiến cho project Mirai
-
-❎ Các sở thích của mình
-
-- ✔️ &nbsp; Học hỏi TypeScript | JavaScript | HTML | CSS | Adobe Photoshop
-- ✔️ &nbsp; Chơi game CSGO | Liên Quân | Fifa Online 4 | Minecraft
-- ✔️ &nbsp; Thích đá banh và yêu thích IT
-- ✔️ &nbsp; Hay nghe nhạc từ ngày lẫn đêm kkk
 
 ❎ Discord
 
@@ -44,5 +25,5 @@
  
 🤝🏻 Connect with Me
 <p align="center">
+ &nbsp; <a href="https://www.youtube.com/channel/UCYwiSvAyyEDwlWUp_LElydA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png" width="95" /></a>
 &nbsp; <a href="https://github.com/DiozVN" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.youtube.com/channel/UCYwiSvAyyEDwlWUp_LElydA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png" width="95" /></a>
