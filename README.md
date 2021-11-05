@@ -3,7 +3,7 @@
 ❎ Discord
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
-<a href="https://discord.com/users/882173065163849739">
+<a align="center" href="https://discord.com/users/882173065163849739">
 <img align="center" src="https://discord.c99.nl/widget/theme-3/882173065163849739.png" alt="Discord"/>
 </a>
 <br><br>
