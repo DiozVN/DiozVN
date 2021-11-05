@@ -10,8 +10,10 @@
 ℹ️ Github Stats
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DiozVN&theme=dracula&count_private=true"></div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiozVN&show_icons=true&hide_border=true&theme=tokyonight">
-
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DiozVN&show_icons=true&hide_border=true&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiozVN&theme=tokyonight&hide=batchfile">
+</p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 📖 Top Langs
