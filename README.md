@@ -10,6 +10,7 @@
 ℹ️ Github Stats
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DiozVN&theme=dracula&count_private=true"></div>
+<br><br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiozVN&show_icons=true&hide_border=true&theme=tokyonight">
 </p>
