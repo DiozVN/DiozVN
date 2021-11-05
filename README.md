@@ -24,6 +24,12 @@
 <a href="https://discord.com/users/882173065163849739" target="_blank" >
     <img align ="left" alt="DiozVN's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCYwiSvAyyEDwlWUp_LElydA?sub_confirmation=1" target="_blank">
+    <img align ="left" alt="DiozVN's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://github.com/DiozVN" target="_blank">
+    <img align ="left" alt="DiozVN's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
