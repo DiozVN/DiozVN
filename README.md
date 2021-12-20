@@ -9,9 +9,15 @@
 ❎ **Discord:**
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
+<div align="center">
+<a align="center" href="https://top.gg/bot/892685756718526494">
+  <img src="https://top.gg/api/widget/892685756718526494.svg">
+</a>
+<br><br><br><br>
 <a align="center" href="https://discord.com/users/882173065163849739">
 <img align="center" src="https://discord.c99.nl/widget/theme-3/882173065163849739.png" alt="Discord"/>
 </a>
+ </div>
 <br><br>
 
 ℹ️ **Github Stats:**
