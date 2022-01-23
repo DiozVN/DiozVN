@@ -14,6 +14,10 @@
   <img src="https://top.gg/api/widget/892685756718526494.svg">
 </a>
 <br><br><br><br>
+<a href="https://discord.gg/elainahouse">
+  <img src="https://discord.com/api/guilds/911073413068619776/widget.png?style=banner4">
+</a>
+<br><br><br><br>
 <a align="center" href="https://discord.com/users/882173065163849739">
 <img align="center" src="https://discord.c99.nl/widget/theme-3/882173065163849739.png" alt="Discord"/>
 </a>
