@@ -10,6 +10,11 @@
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
 <div align="center">
+<a href="https://top.gg/bot/953116884268617729">
+  <img src="https://top.gg/api/widget/953116884268617729.svg">
+</a>
+  
+  
 <a align="center" href="https://top.gg/bot/892685756718526494">
   <img src="https://top.gg/api/widget/892685756718526494.svg">
 </a>
