@@ -15,9 +15,9 @@
 </a>
   
   
-<a align="center" href="https://top.gg/bot/892685756718526494">
+<!-- <a align="center" href="https://top.gg/bot/892685756718526494">
   <img src="https://top.gg/api/widget/892685756718526494.svg">
-</a>
+</a> -->
 <br><br><br><br>
 <a href="https://discord.gg/elainahouse">
   <img src="https://discord.com/api/guilds/911073413068619776/widget.png?style=banner4">
